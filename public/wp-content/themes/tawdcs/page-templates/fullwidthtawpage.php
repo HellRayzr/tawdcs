@@ -26,7 +26,7 @@ get_header(); ?>
     <div class="container taw-container">
 	<div class="row">
 	    <div class="col-md-12">
-		<a href="http://142.44.163.134/ko/" target="_blank"><img src="/wp-content/themes/tawdcs/images/KO_banner.jpg" /></a>
+		<a href="http://ko.tawdcs.org" target="_blank"><img src="/wp-content/themes/tawdcs/images/KO_banner.jpg" /></a>
 	    </div>
 	</div>
     </div>
